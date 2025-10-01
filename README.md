@@ -2,7 +2,7 @@
 
 **`Desenvolvedor FullStack`**
 
-Me chamo Dalyson Almeida, tenho 27 anos e sou natural do Minas Gerais. Concluí o curso técnico em informática na escola SENAC MINAS. Atualmente, estou cursando desenvolvimento de programas e soou apaixonado por tecnologia.
+Me chamo Dalyson Almeida, tenho 27 anos e sou natural do Minas Gerais. Concluí o curso técnico em informática na escola SENAC MINAS. Atualmente, estou cursando desenvolvimento de programas e sou apaixonado por tecnologia.
 
 <p align="left">
     <!-- <a href="https://www.youtube.com/@larissakich?sub_confirmation=1">
@@ -30,7 +30,7 @@ Me chamo Dalyson Almeida, tenho 27 anos e sou natural do Minas Gerais. Concluí 
         <img 
             alt="Seguidores" 
             title="Me siga no GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/followers/dzinhob13&color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
+            src="https://custom-icon-badges.demolab.com/github/followers/dzinhob13?&color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
         />
     </a>
 </p>
@@ -118,6 +118,7 @@ Me chamo Dalyson Almeida, tenho 27 anos e sou natural do Minas Gerais. Concluí 
   />
 
 </p>
+
 
 
 
