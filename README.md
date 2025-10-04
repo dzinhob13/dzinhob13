@@ -29,8 +29,8 @@ Me chamo Dalyson Almeida, tenho 27 anos e sou natural do Minas Gerais. Concluí 
     <a href="https://github.com/dzinhob13">
         <img 
             alt="Seguidores" 
-            title="Me siga no GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/followers/dzinhob13?&color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
+            title="Me siga no GitHub"
+            src="https://custom-icon-badges.demolab.com/github/followers/dzinhob13?logo=person-add&style=social&logoColor=blackcolor=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
         />
     </a>
 </p>
@@ -118,6 +118,7 @@ Me chamo Dalyson Almeida, tenho 27 anos e sou natural do Minas Gerais. Concluí 
   />
 
 </p>
+
 
 
 
