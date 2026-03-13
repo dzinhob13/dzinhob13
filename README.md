@@ -2,7 +2,7 @@
 
 **`Desenvolvedor FullStack`**
 
-Me chamo Dalyson Almeida, tenho 27 anos e sou natural do Minas Gerais. Concluí o curso técnico em informática na escola SENAC MINAS. Atualmente, estou cursando desenvolvimento de programas e sou apaixonado por tecnologia.
+Me chamo Dalyson Almeida, tenho 28 anos e sou natural do Minas Gerais. Concluí o curso técnico em informática na escola SENAC MINAS. Atualmente, estou cursando desenvolvimento de programas e sou apaixonado por tecnologia.
 
 <p align="left">
     <!-- <a href="https://www.youtube.com/@larissakich?sub_confirmation=1">
@@ -73,11 +73,11 @@ Me chamo Dalyson Almeida, tenho 27 anos e sou natural do Minas Gerais. Concluí 
 />
 <img 
     align="left" 
-    alt="PHP" 
-    title="PHP"
+    alt="Java" 
+    title="Java"
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg"
 />
 <img 
     align="left" 
@@ -118,6 +118,7 @@ Me chamo Dalyson Almeida, tenho 27 anos e sou natural do Minas Gerais. Concluí 
   />
 
 </p>
+
 
 
 
